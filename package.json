@@ -1,0 +1,15 @@
+{
+  "name": "file_upload",
+  "version": "1.0.0",
+  "description": "Modulo para subir archivos al servidor",
+  "main": "index.js",
+  "author": "Hollow Devs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }  
+}
